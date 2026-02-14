@@ -39,6 +39,6 @@ This structure allows new capabilities to be added without modifying core logic.
 ## ⚙️ Setup & Installation
 
 ```bash
-git clone https://github.com/your-username/beast-ai.git
+git clone https://github.com/yauroraeye-dev/BEAST-AI.git
 cd beast-ai
 pip install -r requirements.txt
